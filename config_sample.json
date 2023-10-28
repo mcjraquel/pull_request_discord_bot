@@ -1,0 +1,7 @@
+{
+    "clientId": "YOUR_CLIENT_ID",
+    "guildId": "YOUR_GUILD_ID",
+    "discordToken": "YOUR_DISCORD_TOKEN",
+    "pullRequestChannels": ["CHANNEL", "IDS", "WITH", "PR", "THREADS"],
+    "octokitToken": "YOUR_OCTOKIT_TOKEN"
+}
